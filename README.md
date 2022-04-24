@@ -1,3 +1,3 @@
 # MMTA
 
-úkol na metodu konečných diferencí ve 2D
+rovnice vedení tepla ve 2D, metoda konečných diferencí
